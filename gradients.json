@@ -1532,5 +1532,8 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
-    }
+    },
+    {
+       "name": "Greeny Meadow",
+       "colors": ["1ed7b5", "f0f9a7"]
 ]
